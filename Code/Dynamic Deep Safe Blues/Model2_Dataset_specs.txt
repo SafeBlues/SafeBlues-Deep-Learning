@@ -1,0 +1,23 @@
+Model2: Dataset:
+
+Policy used for training:
+
+policy_times = [7,14,98,126]
+policy_amount = [0.2,0.3,0.8,0.0]
+
+Forecasting policies:
+
+HIGH LOCKDOWN = HIGH SOCIAL DISTANCING:
+policy_times_low = [7,14,98,106]
+policy_amount_low = [0.2,0.3,1.0,1.0]
+
+MODERATE SOCIAL DISTANCING:
+policy_times_medium = [7,14,98,106]
+policy_amount_medium = [0.2,0.3,0.6,0.6]
+
+
+LOW SOCIAL DISTANCING:
+policy_times_high = [7,14,98,106]
+policy_amount_high = [0.2,0.3,0.2,0.2]
+
+Training done till 81 days, Forecasting till 105 days
