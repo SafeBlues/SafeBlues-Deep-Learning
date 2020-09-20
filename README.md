@@ -1,4 +1,4 @@
-# SafeBlues
+# SafeBlues - Deep Learning
 
 This repo contains all code, data and result files for the Deep Learning Module (Deep Safe Blues and Dynamic Deep Safe Blues) of the SafeBlues project.
 
